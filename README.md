@@ -1,6 +1,4 @@
 # PLM CRS Redesign
-
-## Description
 The **Pamantasan ng Lungsod ng Maynila Course Registration System (PLM CRS)** is an essential platform for PLM students, allowing them to enroll in courses, manage their class schedules, and view their grades. It serves as the primary gateway for students to access their academic records and streamline their educational journey.
 
 ## Purpose
